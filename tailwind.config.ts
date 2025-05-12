@@ -12,6 +12,9 @@ export default {
       colors: {
         test: "#ed6aff",
       },
+      transitionProperty: {
+        height: "height",
+      },
     },
   },
   plugins: [],
