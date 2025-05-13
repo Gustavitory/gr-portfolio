@@ -12,6 +12,10 @@ export default {
       colors: {
         test: "#ed6aff",
       },
+      fontFamily: {
+        sans: ["var(--font-inter)"],
+        generalsans: ["var(--font-generalsans)"],
+      },
       transitionProperty: {
         height: "height",
       },
